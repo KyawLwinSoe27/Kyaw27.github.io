@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(#FF96F9, #C32BAC, #CC208E, #537895, #F9D423);
+}
+h1{
+    margin: 0;
+    padding: 0;
+    color: blue;
+    text-align: center;
+}
